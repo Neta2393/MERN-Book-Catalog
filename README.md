@@ -2,13 +2,14 @@
 ![License Badge](https://img.shields.io/badge/license-MIT-green)
 
 
-**This repo is a MERN Google Books catalog that allows users to signup,login,search books,save books and delete saved book. The user has the ability to click on a book and be redirected to that books Google Book information. This repo is deployed athttps://bookcatalog21-c33249d4a637.herokuapp.com/ and the repo for this app can be found at https://github.com/Neta2393/MERN-Book-Catalog-21.**
+**This repo is a MERN Google Books catalog that allows users to signup,login,search books,save books and delete saved book. The user has the ability to click on a book and be redirected to that books Google Book information. This repo is deployed at https://bookcatalog21-c33249d4a637.herokuapp.com/ and the repo for this app can be found at https://github.com/Neta2393/MERN-Book-Catalog-21.**
 
 ## Table of Contents:
 * <span style="color:green; font-weight:bold;">[User-Story](#user-story)</span>
 * <span style="color:green; font-weight:bold;">[Acceptance-Criteria](#acceptance-criteria)</span>
 * <span style="color:green; font-weight:bold;">[Installation](#installation)</span>
 * <span style="color:green; font-weight:bold;">[Screenshots](#screenshots)</span>
+* <span style="color:green; font-weight:bold;">[challenges](#challenges)</span>
 * <span style="color:green; font-weight:bold;">[Sources](#sources)</span>
 * <span style="color:green; font-weight:bold;">[Contribute](#contribute)</span>
 * <span style="color:green; font-weight:bold;">[GitHub](#github)</span>
@@ -66,6 +67,10 @@
 ![Alt text](<./assets/DeleteBook.png>)
 ![Alt text](<./assets/SearchforBooks.png>)
 ![Alt text](<./assets/ViewSavedBooks.png>)
+
+## Challenges
+
+**The biggest challenge that I had with this assignment was troubleshooting errors and not breaking the code. I found that when I fixed things too slow another element was not working. My goal for this challenge was to have something deployed. Another challenge that I had was connecting the app to graph ql. For some reason I learned that it is not my strong suite. I would like to continue working on this challenge after I complete the bootcamp.**
 
 ## Sources
 
