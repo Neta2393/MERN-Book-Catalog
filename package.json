@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/Neta2393/MERN-Book-Catalog-21/issues"
   },
-  "homepage": "https://github.com/Neta2393/MERN-Book-Catalog-21#readme"
+  "homepage": "https://github.com/Neta2393/MERN-Book-Catalog-21#readme",
+  "dependencies": {
+    "@apollo/server": "^4.9.3",
+    "graphql": "^16.8.0"
+  }
 }
