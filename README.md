@@ -54,3 +54,36 @@
 **WHEN I click on the Logout button**
 **THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button**  
 ```
+
+## Installation
+
+**To Install this repo I cloned the started code that was provided**
+
+**Ran NPM install and installed @apollo/client, vite@latest and graphQL.**
+
+## Screenshots
+
+![Alt text](<./assets/DeleteBook.png>)
+![Alt text](<./assets/SearchforBooks.png>)
+![Alt text](<./assets/ViewSavedBooks.png>)
+
+## Sources
+
+**UCSD's coding bootcamp curriculum/starter code**
+
+**StackOverflow for the multiple Heroku deployment errors**
+
+**https://stackoverflow.com/questions/52704791/how-to-connect-to-the-selected-app-with-heroku-cli**
+
+**https://www.npmjs.com/package/apollo-server-express**
+
+**https://react.dev/**
+
+
+## Contribute
+
+**To contribute please clone the starter code at https://github.com/Neta2393/MERN-Book-Catalog-21**
+
+## Github
+
+**Benethea Hardin: https://github.com/Neta2393**

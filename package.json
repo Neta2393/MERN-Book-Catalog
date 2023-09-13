@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/Neta2393/MERN-Book-Catalog-21#readme",
   "dependencies": {
+    "@apollo/client": "^3.8.3",
     "@apollo/server": "^4.9.3",
     "graphql": "^16.8.0"
   }
