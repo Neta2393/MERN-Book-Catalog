@@ -12,6 +12,7 @@ const server = new ApolloServer({
   typeDefs,
   resolvers,
   context: authMiddleware,
+  introspection: true, // Enable introspection
 });
 
 // if we're in production, serve client/build as static assets

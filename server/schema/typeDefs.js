@@ -1,5 +1,6 @@
 const { gql } = require("apollo-server-express");
 
+// Define GraphQL types for User, Book, and Auth
 const typeDefs = gql`
   type User {
     _id: ID!
@@ -32,10 +33,12 @@ const typeDefs = gql`
     title: String!
   }
 
+  # Define GraphQL queries
   type Query {
     me: User
   }
 
+  # Define GraphQL mutations
   type Mutation {
     login(email: String!, password: String!): Auth
     addUser(username: String!, email: String!, password: String!): Auth
@@ -45,5 +48,3 @@ const typeDefs = gql`
 `;
 
 module.exports = typeDefs;
-
-//The typeDefs.js file defines each piece of information that is seeded to the user modal.

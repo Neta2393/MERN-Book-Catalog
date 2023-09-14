@@ -70,7 +70,7 @@
 
 ## Challenges
 
-**The biggest challenge that I had with this assignment was troubleshooting errors and not breaking the code. I found that when I fixed things too slow another element was not working. My goal for this challenge was to have something deployed. Another challenge that I had was connecting the app to graph ql. For some reason I learned that it is not my strong suite. I would like to continue working on this challenge after I complete the bootcamp.**
+**The biggest challenge that I had with this assignment was troubleshooting errors and not breaking the code. I found that when I fixed one error another problem arose.  My goal for this challenge was to have something deployed and to at least have graphql show up in the console. Another challenge that I had was connecting the app to graph ql. For some reason I learned that it is not my strong suite. I would like to continue working on this challenge after I complete the bootcamp.**
 
 ## Sources
 
