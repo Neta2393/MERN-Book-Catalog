@@ -1,4 +1,3 @@
-// see SignupForm.js for comments
 import { useState } from "react";
 import { Form, Button, Alert } from "react-bootstrap";
 
@@ -33,12 +32,12 @@ const LoginForm = () => {
       });
       Auth.login(data.login.token);
     } catch (err) {
-      console.error(err);
+      console.error("Error:", err); // Log the error object
+      console.error("Error message:", err.message); // Log the error message
       setShowAlert(true);
     }
 
     setUserFormData({
-      username: "",
       email: "",
       password: "",
     });
@@ -97,3 +96,9 @@ const LoginForm = () => {
 };
 
 export default LoginForm;
+
+
+
+
+
+
